@@ -10,4 +10,6 @@ it's mainly python3, using the requests library.
 
 feel free to make pull requests if you have a good idea or improvement!
 
+thankt to Brawl345 for documenting the api! https://gist.github.com/Brawl345/d7807f30b2fdcf03333136f1214d6114
+
 TODO: add it to AUR?
