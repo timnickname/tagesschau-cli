@@ -5,11 +5,8 @@ this is a simple script to work with the tagesschau.de/api2. It retrieves the fi
 
 i use it on my server, so that everytime i login, i can read the headlines. also features a (clickable) link to the website.
 
-this was a short project of mine and i wanted to share it. 
-it's mainly python3, using the requests library.
+this was a short project of mine and i wanted to share it. it uses curl and jq to determine the elements needed.
 
-feel free to make pull requests if you have a good idea or improvement!
+feel free to make pull requests if you have a good idea or improvement! i know the code is not optimised, so please feel free to optimise it.
 
-thankt to Brawl345 for documenting the api! https://gist.github.com/Brawl345/d7807f30b2fdcf03333136f1214d6114
-
-TODO: add it to AUR?
+thanks to Brawl345 for documenting the api! https://gist.github.com/Brawl345/d7807f30b2fdcf03333136f1214d6114
